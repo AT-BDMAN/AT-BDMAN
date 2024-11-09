@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @AT-BDMAN
+![AT-BDMAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=AT-BDMAN&theme=solarized-light&show_icons=true)
 
-<!---
-AT-BDMAN/AT-BDMAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![AT-BDMAN's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AT-BDMAN&layout=compact&card_width=468)
